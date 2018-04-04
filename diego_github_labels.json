@@ -1,0 +1,198 @@
+[
+  {
+    "name": "complexity:hard",
+    "color": "c2e0c6"
+  },
+  {
+    "name": "complexity:low",
+    "color": "c2e0c6"
+  },
+  {
+    "name": "complexity:medium",
+    "color": "c2e0c6"
+  },
+  {
+    "name": "complexity:trivial",
+    "color": "c2e0c6"
+  },
+  {
+    "name": "component:cmake",
+    "color": "efc728"
+  },
+  {
+    "name": "component:doxygen",
+    "color": "efc728"
+  },
+  {
+    "name": "component:library-coder",
+    "color": "efc728"
+  },
+  {
+    "name": "component:library-mex",
+    "color": "efc728"
+  },
+  {
+    "name": "component:library-wbt",
+    "color": "efc728"
+  },
+  {
+    "name": "component:simulink",
+    "color": "efc728"
+  },
+  {
+    "name": "component:tests",
+    "color": "efc728"
+  },
+  {
+    "name": "component:website",
+    "color": "efc728"
+  },
+  {
+    "name": "good first issue",
+    "color": "5319e7"
+  },
+  {
+    "name": "help wanted",
+    "color": "0e8a16"
+  },
+  {
+    "name": "other:documentation-missing",
+    "color": "c5f7f9"
+  },
+  {
+    "name": "other:good-first-issue",
+    "color": "c5f7f9"
+  },
+  {
+    "name": "other:IFI",
+    "color": "c5f7f9"
+  },
+  {
+    "name": "platform:linux",
+    "color": "d4c5f9"
+  },
+  {
+    "name": "platform:macOS",
+    "color": "d4c5f9"
+  },
+  {
+    "name": "platform:windows",
+    "color": "d4c5f9"
+  },
+  {
+    "name": "priority:high",
+    "color": "d93f0b"
+  },
+  {
+    "name": "priority:low",
+    "color": "e99695"
+  },
+  {
+    "name": "priority:normal",
+    "color": "e99695"
+  },
+  {
+    "name": "resolution:answered",
+    "color": "cccccc"
+  },
+  {
+    "name": "resolution:duplicate",
+    "color": "cccccc"
+  },
+  {
+    "name": "resolution:fixed",
+    "color": "cccccc"
+  },
+  {
+    "name": "resolution:invalid",
+    "color": "cccccc"
+  },
+  {
+    "name": "resolution:merged",
+    "color": "cccccc"
+  },
+  {
+    "name": "resolution:no-feedback-received",
+    "color": "cccccc"
+  },
+  {
+    "name": "resolution:other",
+    "color": "cccccc"
+  },
+  {
+    "name": "resolution:rejected",
+    "color": "cccccc"
+  },
+  {
+    "name": "resolution:withdrawn",
+    "color": "cccccc"
+  },
+  {
+    "name": "resolution:wontfix",
+    "color": "cccccc"
+  },
+  {
+    "name": "severity:major",
+    "color": "d93f0b"
+  },
+  {
+    "name": "severity:minor",
+    "color": "f9d0c4"
+  },
+  {
+    "name": "severity:normal",
+    "color": "f9d0c4"
+  },
+  {
+    "name": "status:backlog",
+    "color": "ededed"
+  },
+  {
+    "name": "status:feedback",
+    "color": "ededed"
+  },
+  {
+    "name": "status:in-progress",
+    "color": "ededed"
+  },
+  {
+    "name": "type:admin",
+    "color": "bfd4f2"
+  },
+  {
+    "name": "type:announcement",
+    "color": "c5def5"
+  },
+  {
+    "name": "type:bug",
+    "color": "c5def5"
+  },
+  {
+    "name": "type:cleanup",
+    "color": "c5def5"
+  },
+  {
+    "name": "type:configuration",
+    "color": "bfd4f2"
+  },
+  {
+    "name": "type:discussion",
+    "color": "c5def5"
+  },
+  {
+    "name": "type:enhancement",
+    "color": "c5def5"
+  },
+  {
+    "name": "type:question",
+    "color": "c5def5"
+  },
+  {
+    "name": "type:reminder",
+    "color": "c5def5"
+  },
+  {
+    "name": "type:task",
+    "color": "c5def5"
+  }
+]

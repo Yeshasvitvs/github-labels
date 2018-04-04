@@ -1,0 +1,330 @@
+[
+  {
+    "name": "Complexity: Hard",
+    "color": "ffaa7f"
+  },
+  {
+    "name": "Complexity: Low",
+    "color": "aaff7f"
+  },
+  {
+    "name": "Complexity: Medium",
+    "color": "ffff7f"
+  },
+  {
+    "name": "Complexity: Trivial",
+    "color": "aaff7f"
+  },
+  {
+    "name": "Component: Bindings",
+    "color": "bfdadc"
+  },
+  {
+    "name": "Component: CMake",
+    "color": "cfe5cf"
+  },
+  {
+    "name": "Component: Dataset",
+    "color": "fbca04"
+  },
+  {
+    "name": "Component: Continuous Integration",
+    "color": "bfe5bf"
+  },
+  {
+    "name": "Component: Deprecated",
+    "color": "efefef"
+  },
+  {
+    "name": "Component: Devices",
+    "color": "bfe5bf"
+  },
+  {
+    "name": "Component: Documentation",
+    "color": "bfe5bf"
+  },
+  {
+    "name": "Component: Examples",
+    "color": "bfdadc"
+  },
+  {
+    "name": "Component: Extern",
+    "color": "bfdadc"
+  },
+  {
+    "name": "Component: Tests",
+    "color": "bfdadc"
+  },
+  {
+    "name": "iCub Green Day reviewed",
+    "color": "e3ed89"
+  },
+  {
+    "name": "Issue Type: Announcement",
+    "color": "9830d1"
+  },
+  {
+    "name": "Issue Type: API Bug",
+    "color": "9830d1"
+  },
+  {
+    "name": "Issue Type: Bug",
+    "color": "9830d1"
+  },
+  {
+    "name": "Issue Type: Feat/Enh Req",
+    "color": "9830d1"
+  },
+  {
+    "name": "Issue Type: QA/Support",
+    "color": "9830d1"
+  },
+  {
+    "name": "Platform: Linux",
+    "color": "084c7c"
+  },
+  {
+    "name": "Platform: macOS",
+    "color": "084c7c"
+  },
+  {
+    "name": "Platform: Windows",
+    "color": "084c7c"
+  },
+  {
+    "name": "PR Status: Branch - Not OK",
+    "color": "ff0000"
+  },
+  {
+    "name": "PR Status: Branch - OK",
+    "color": "0e8a16"
+  },
+  {
+    "name": "PR Status: Changelog - Not OK",
+    "color": "ff0000"
+  },
+  {
+    "name": "PR Status: Changelog - Not Required",
+    "color": "cff29b"
+  },
+  {
+    "name": "PR Status: Changelog - OK",
+    "color": "0e8a16"
+  },
+  {
+    "name": "PR Status: Commits - Not OK",
+    "color": "ff0000"
+  },
+  {
+    "name": "PR Status: Commits - OK",
+    "color": "0e8a16"
+  },
+  {
+    "name": "PR Status: Copyright - Not OK",
+    "color": "ff0000"
+  },
+  {
+    "name": "PR Status: Copyright - OK",
+    "color": "0e8a16"
+  },
+  {
+    "name": "PR Status: Rebase - OK",
+    "color": "0e8a16"
+  },
+  {
+    "name": "PR Status: Rebase - Required",
+    "color": "ff0000"
+  },
+  {
+    "name": "PR Status: Test on Hardware - Not Required",
+    "color": "cff29b"
+  },
+  {
+    "name": "PR Status: Test on Hardware - OK",
+    "color": "0e8a16"
+  },
+  {
+    "name": "PR Status: Test on Hardware - Required",
+    "color": "ff0000"
+  },
+  {
+    "name": "PR Type: Bugfix",
+    "color": "7210a0"
+  },
+  {
+    "name": "PR Type: Feat/Enhancement",
+    "color": "7210a0"
+  },
+  {
+    "name": "Priority: High",
+    "color": "d93f0b"
+  },
+  {
+    "name": "Priority: iCub Green Day",
+    "color": "D9AA9A"
+  },
+  {
+    "name": "Priority: Low",
+    "color": "D97C5D"
+  },
+  {
+    "name": "Priority: Normal",
+    "color": "D95E35"
+  },
+  {
+    "name": "Resolution: Answered",
+    "color": "999999"
+  },
+  {
+    "name": "Resolution: Duplicate",
+    "color": "cccccc"
+  },
+  {
+    "name": "Resolution: Fixed",
+    "color": "888888"
+  },
+  {
+    "name": "Resolution: Invalid",
+    "color": "e6e6e6"
+  },
+  {
+    "name": "Resolution: Merged",
+    "color": "888888"
+  },
+  {
+    "name": "Resolution: No Feedback Received",
+    "color": "aaaaaa"
+  },
+  {
+    "name": "Resolution: Other",
+    "color": "aaaaaa"
+  },
+  {
+    "name": "Resolution: Rejected",
+    "color": "d5d5d5"
+  },
+  {
+    "name": "Resolution: Upstream",
+    "color": "999999"
+  },
+  {
+    "name": "Resolution: Withdrawn",
+    "color": "d5d5d5"
+  },
+  {
+    "name": "Resolution: Wontfix",
+    "color": "ffffff"
+  },
+  {
+    "name": "Severity: Major",
+    "color": "e11d21"
+  },
+  {
+    "name": "Severity: Minor",
+    "color": "f7c6c7"
+  },
+  {
+    "name": "Severity: Normal",
+    "color": "ec7174"
+  },
+  {
+    "name": "Severity: Release Blocker",
+    "color": "770205"
+  },
+  {
+    "name": "Severity: Security",
+    "color": "b60205"
+  },
+  {
+    "name": "Status: Backlog",
+    "color": "ededed"
+  },
+  {
+    "name": "Status: Feedback",
+    "color": "ededed"
+  },
+  {
+    "name": "Status: Help Wanted",
+    "color": "ededed"
+  },
+  {
+    "name": "Status: In Progress",
+    "color": "ededed"
+  },
+  {
+    "name": "Target: Future",
+    "color": "d93f0b"
+  },
+  {
+    "name": "Type: Admin",
+    "color": "5319e7"
+  },
+  {
+    "name": "Type: Breaking Change",
+    "color": "5319e7"
+  },
+  {
+    "name": "Type: Cleanup",
+    "color": "5319e7"
+  },
+  {
+    "name": "Type: Deprecation",
+    "color": "5319e7"
+  },
+  {
+    "name": "Type: Discussion",
+    "color": "5319e7"
+  },
+  {
+    "name": "Type: Observations",
+    "color": "5319e7"
+  },
+  {
+    "name": "Type: Epic",
+    "color": "5319e7"
+  },
+  {
+    "name": "Type: Fake",
+    "color": "5319e7"
+  },
+  {
+    "name": "Type: Legal",
+    "color": "5319e7"
+  },
+  {
+    "name": "Type: Theory",
+    "color": "5319e7"
+  },
+  {
+    "name": "Type: Refactor",
+    "color": "5319e7"
+  },
+  {
+    "name": "Type: Reminder",
+    "color": "5319e7"
+  },
+  {
+    "name": "Type: Task",
+    "color": "5319e7"
+  },
+  {
+    "name": "Type: FYI",
+    "color": "5319e7"
+  },
+  {
+    "name": "Type: Meeting-Minutes",
+    "color": "5319e7"
+  },
+  {
+    "name": "Type: How-To",
+    "color": "00ffcc"
+  },
+  {
+    "name": "Type: Purchase",
+    "color": "fbca04"
+  },
+  {
+    "name": "Type: Brainstorming",
+    "color": "0052cc"
+  }
+]

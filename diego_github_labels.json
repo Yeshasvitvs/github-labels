@@ -20,7 +20,115 @@
     "color": "efc728"
   },
   {
+    "name": "component:examples",
+    "color": "efc728"
+  },
+  {
+    "name": "component:yarp",
+    "color": "efc728"
+  },
+  {
+    "name": "component:skin",
+    "color": "efc728"
+  },
+  {
+    "name": "component:gazebo-yarp-plugins",
+    "color": "efc728"
+  },
+  {
+    "name": "component:gazebo",
+    "color": "efc728"
+  },
+  {
+    "name": "component:reinforcement-learning",
+    "color": "efc728"
+  },
+  {
+    "name": "component:locomotion",
+    "color": "efc728"
+  },
+  {
+    "name": "component:manipulation",
+    "color": "efc728"
+  },
+  {
+    "name": "component:reactive-phri",
+    "color": "efc728"
+  },
+  {
+    "name": "component:human-dynamics-estimation",
+    "color": "efc728"
+  },
+  {
+    "name": "component:xsens",
+    "color": "efc728"
+  },
+  {
+    "name": "component:robot-configurations",
+    "color": "efc728"
+  },
+  {
+    "name": "component:icub-models",
+    "color": "efc728"
+  },
+  {
+    "name": "component:icub-firmware",
+    "color": "efc728"
+  },
+  {
+    "name": "component:codyco-modules",
+    "color": "efc728"
+  },
+  {
+    "name": "component:idyntree",
+    "color": "efc728"
+  },
+  {
+    "name": "component:ft-sensors",
+    "color": "efc728"
+  },
+  {
+    "name": "component:whole-body-dynamics",
+    "color": "efc728"
+  },
+  {
+    "name": "component:codyco-superbuild",
+    "color": "efc728"
+  },
+  {
+    "name": "component:robotology-superbuild",
+    "color": "efc728"
+  },
+  {
+    "name": "component:yarpdatadumper",
+    "color": "efc728"
+  },
+  {
+    "name": "component:yarpdataplayer",
+    "color": "efc728"
+  },
+  {
+    "name": "component:icub-support",
+    "color": "efc728"
+  },
+  {
+    "name": "component:documentation",
+    "color": "efc728"
+  },
+  {
     "name": "component:doxygen",
+    "color": "efc728"
+  },
+  {
+    "name": "component:continuous-integration",
+    "color": "efc728"
+  },
+  {
+    "name": "component:dataset",
+    "color": "efc728"
+  },
+  {
+    "name": "component:bindings",
     "color": "efc728"
   },
   {
@@ -48,10 +156,6 @@
     "color": "efc728"
   },
   {
-    "name": "good first issue",
-    "color": "5319e7"
-  },
-  {
     "name": "help wanted",
     "color": "0e8a16"
   },
@@ -65,6 +169,10 @@
   },
   {
     "name": "other:IFI",
+    "color": "c5f7f9"
+  },
+  {
+    "name": "other:icub-green-friday",
     "color": "c5f7f9"
   },
   {
@@ -160,6 +268,30 @@
     "color": "bfd4f2"
   },
   {
+    "name": "type:purchase",
+    "color": "bfd4f2"
+  },
+  {
+    "name": "type:reminder",
+    "color": "bfd4f2"
+  },
+  {
+    "name": "type:material",
+    "color": "bfd4f2"
+  },
+  {
+    "name": "type:literature-review",
+    "color": "bfd4f2"
+  },
+  {
+    "name": "type:theory",
+    "color": "bfd4f2"
+  },
+  {
+    "name": "type:observations",
+    "color": "bfd4f2"
+  },
+  {
     "name": "type:announcement",
     "color": "c5def5"
   },
@@ -173,10 +305,18 @@
   },
   {
     "name": "type:configuration",
-    "color": "bfd4f2"
+    "color": "c5def5"
+  },
+  {
+    "name": "type:brainstorming",
+    "color": "c5def5"
   },
   {
     "name": "type:discussion",
+    "color": "c5def5"
+  },
+  {
+    "name": "type:meeting-minutes",
     "color": "c5def5"
   },
   {
@@ -194,5 +334,73 @@
   {
     "name": "type:task",
     "color": "c5def5"
+  },
+  {
+    "name": "type:meeting",
+    "color": "c5def5"
+  },
+  {
+    "name": "type:API-bug",
+    "color": "c5def5"
+  },
+  {
+    "name": "type:Q/A-support",
+    "color": "c5def5"
+  },
+  {
+    "name": "PR:branch-not-ok",
+    "color": "cff29b"
+  },
+  {
+    "name": "PR:branch-ok",
+    "color": "cff29b"
+  },
+  {
+    "name": "PR:changelog-not-ok",
+    "color": "cff29b"
+  },
+  {
+    "name": "PR:changelog-ok",
+    "color": "cff29b"
+  },
+  {
+    "name": "PR:commits-not-ok",
+    "color": "cff29b"
+  },
+  {
+    "name": "PR:commits-ok",
+    "color": "cff29b"
+  },
+  {
+    "name": "PR:review-needed",
+    "color": "cff29b"
+  },
+  {
+    "name": "PR:review-done",
+    "color": "cff29b"
+  },
+  {
+    "name": "PR:copyright-not-ok",
+    "color": "cff29b"
+  },
+  {
+    "name": "PR:copyright-ok",
+    "color": "cff29b"
+  },
+  {
+    "name": "PR:rebase-ok",
+    "color": "cff29b"
+  },
+  {
+    "name": "PR:rebase-required",
+    "color": "cff29b"
+  },
+  {
+    "name": "PR-type:bugfix",
+    "color": "d9aa9a"
+  },
+  {
+    "name": "PR-type:enhancement",
+    "color": "d9aa9a"
   }
 ]

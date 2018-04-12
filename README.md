@@ -31,6 +31,8 @@ To remove the existing labels in a repository use
 
 e.g.`glm -u ${GITHUB_USER} -t ${GITHUB_TOKEN} clear github-labels`
 
+**NOTE**: This only removes the labels in one page. If you have more the one page of labels you need to run the above command multiple times to delete all the labels.
+
 To copy the labels from one repository to another repository use
 
 `glm -u <github_user> -t <token> copy <origin-repo-name> <destination-repo-name>`

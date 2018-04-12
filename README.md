@@ -12,7 +12,7 @@ you need to first install `npm` package manager
 
 Then you need the install the following three packages
 * [github-labels](https://github.com/popomore/github-labels)
-* [copy-github-labels](https://github.com/jvandemo/copy-github-labels)
+* [copy-github-labels-cli](https://github.com/jvandemo/copy-github-labels-cli)
 * [github-label-manager](https://www.npmjs.com/package/github-label-manager)
 
 The package [github-labels](https://github.com/popomore/github-labels) lets you to add labels to your github repository from `.json` file directly using
@@ -35,6 +35,6 @@ e.g.`glm -u ${GITHUB_USER} -t ${GITHUB_TOKEN} clear github-labels`
 
 To copy the labels from one repository to another repository use
 
-`glm -u <github_user> -t <token> copy <origin-repo-name> <destination-repo-name>`
+`copy-github-labels -t <token> <source-repo> <destination-repo>`
 
-e.g. `glm -u ${GITHUB_USER} -t ${GITHUB_TOKEN} copy github-labels my-awesome-new-repo`
+e.g. `copy-github-labels -t ${GITHUB_TOKEN} yeshasvitvs/github-labels yeshasvitvs/my-awesome-new-repo`

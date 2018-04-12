@@ -265,31 +265,31 @@
   },
   {
     "name": "type:admin",
-    "color": "bfd4f2"
+    "color": "c5def5"
   },
   {
     "name": "type:purchase",
-    "color": "bfd4f2"
+    "color": "c5def5"
   },
   {
     "name": "type:reminder",
-    "color": "bfd4f2"
+    "color": "c5def5"
   },
   {
     "name": "type:material",
-    "color": "bfd4f2"
+    "color": "c5def5"
   },
   {
     "name": "type:literature-review",
-    "color": "bfd4f2"
+    "color": "c5def5"
   },
   {
     "name": "type:theory",
-    "color": "bfd4f2"
+    "color": "c5def5"
   },
   {
     "name": "type:observations",
-    "color": "bfd4f2"
+    "color": "c5def5"
   },
   {
     "name": "type:announcement",

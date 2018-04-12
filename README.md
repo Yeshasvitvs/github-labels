@@ -23,7 +23,7 @@ e.g. `labels -c github-labels.json -f yeshasvitvs/github-labels -t ${GITHUB_TOKE
 
 **NOTE**: The option `-f` is force option which will delete all existing labels.
 
-The package [github-label-manager](https://www.npmjs.com/package/github-label-manager) lets you to copy the labels from one repository to another repository.
+The package [github-label-manager](https://www.npmjs.com/package/github-label-manager) lets you to clear the labels from a repository.
 
 To remove the existing labels in a repository use 
 
@@ -32,6 +32,8 @@ To remove the existing labels in a repository use
 e.g.`glm -u ${GITHUB_USER} -t ${GITHUB_TOKEN} clear github-labels`
 
 **NOTE**: This only removes the labels in one page. If you have more the one page of labels you need to run the above command multiple times to delete all the labels.
+
+The package [copy-github-labels-cli](https://github.com/jvandemo/copy-github-labels-cli) lets you to copy the labels from one repository to another repository.
 
 To copy the labels from one repository to another repository use
 
